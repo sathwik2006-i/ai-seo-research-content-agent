@@ -16,7 +16,7 @@ The Lead Orchestration Agent coordinates two specialized agents: an SEO Research
 
 The assessed configuration used GPT-4.1 Mini for all three agents. The SEO Research Analyst had the Web Search tool configured; the Lead Orchestration Agent and SEO Content Strategist had no separate tools configured in the assessment.
 
-![SketricGen lead agent configuration showing instructions and model selection](assets/agent_configuration.jpg)
+![SketricGen lead agent configuration showing instructions and model selection](assets/agent_cofiguration.jpg)
 
 *Figure 2. Lead agent configuration in SketricGen. The image illustrates the configured instructions and selected model.*
 
